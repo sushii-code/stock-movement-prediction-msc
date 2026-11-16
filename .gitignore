@@ -1,0 +1,21 @@
+# Data is not shared: Notebook 01 downloads it
+data/
+features/
+*.csv
+*.parquet
+*.xlsx
+
+# Trained models
+*.h5
+*.keras
+*.pt
+*.pkl
+
+# Python and notebook clutter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets
+.env
