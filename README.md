@@ -2,7 +2,9 @@
 
 **A controlled audit of evaluation protocol choices**
 MSc Artificial Intelligence dissertation · Brunel University of London · 2025–2026 · **Graded A+**
-Author: Gnana Sushmitha Tammisetti · Supervisor: Professor Zidong Wang
+Author: Gnana Sushmitha Tammisetti
+
+**[Read the full dissertation (PDF)](dissertation.pdf)**
 
 ---
 
